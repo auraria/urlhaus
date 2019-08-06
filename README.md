@@ -13,4 +13,4 @@ bs4, requests, json, re, sys, urllib3
 # Usage:
 
 python urlhaus.py metropoly.cl
-['http://metropoly[.]cl/wp-content/document007.docm', 'http://metropoly.cl/wp-content/Doc[.]docm', 'https://metropoly[.]cl/wp-content/Document1.docm']
+['http://metropoly[.]cl/wp-content/document007.docm', 'http://metropoly[.]cl/wp-content/Doc.docm', 'https://metropoly[.]cl/wp-content/Document1.docm']
